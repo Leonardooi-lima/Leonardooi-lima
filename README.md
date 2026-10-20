@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there, I'm Leonardo!
 
-<!--
-**Leonardooi-lima/Leonardooi-lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Undergraduate @ UNESP**\
+*Software Development * Competitive Programming * Robotics*
 
-Here are some ideas to get you started:
+I'm a Computer Science student at **São Paulo State University (UNESP)**, Brazil, with a strong interest in software engineering, algorithms, and robotics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving challenging problems, building practical applications, and collaborating on projects that connect technology, education, and innovation.
+
+---
+
+### About Me
+
+- Pursuing a Bachelor's degree in **Computer Science at UNESP**.
+- Member of **ProTiva**, a competitive programming group focused on algorithms, data structures, and programming competitions.
+- Software team member at **Carrossel Caipira**, developing software for autonomus robotic soccer systems.
+- Co-founder of **CODEQUEST**, an educational initiative focused on programming and game development.
+  
+  
+
+
