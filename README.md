@@ -1,3 +1,8 @@
+<div align = "center">
+    <img src="./assets/gh-stats.svg" alt="Banner Leonardo" width="100%">
+</div>
+
+
 ## Hi there, I'm Leonardo!
 
 **Computer Science Undergraduate @ UNESP**\
